@@ -1,4 +1,4 @@
-name: Transfer Issue & Create Stub
+name: Transfer Issue & Create Stub - AK
 description: A GitHub Action for transferring issues between github repos with the ability to create a stub issue in the original repo.
 author: John Ouellet
 inputs:
